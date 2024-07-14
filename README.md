@@ -5,17 +5,20 @@ This file contains code for sorting algorithm.
 
 Before Sorting
 
-![image](https://github.com/user-attachments/assets/273cf73a-0237-4a62-8313-2532f6ce4c3e)
+![image](https://github.com/user-attachments/assets/63c4dde4-719a-4a87-87ae-407a21dc9f12)
+
 <br>
 
 While Sorting
 
-![image](https://github.com/user-attachments/assets/3dadeaec-dcb1-4797-b846-55111a52af2f)
+![image](https://github.com/user-attachments/assets/6521ed3d-8f71-40dd-b1b1-cdd2ca8c6d0a)
+
 
 
 After Sorting
 
-![image](https://github.com/user-attachments/assets/148c1a1e-1c0f-49f3-bb8a-21c53d0ad552)
+![image](https://github.com/user-attachments/assets/a7ddc1c7-336f-4f6c-9125-b1437744de16)
+
 
 This project showcases an efficient way to Visualise what we had learnt to had a deep understandings of the algorithms which we are learning
 
